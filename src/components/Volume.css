@@ -1,0 +1,13 @@
+.volumeMainDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.inputs{
+        width: 15rem;
+        border-radius: 2rem;
+        height: 0.3rem;
+        accent-color: rgba(80, 217, 255, 0.951);
+    }

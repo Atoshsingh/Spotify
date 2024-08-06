@@ -1,0 +1,23 @@
+/* .currenttrackMainDiv{
+} */
+.Ctrack{
+    display: flex;
+    align-items: center;
+    gap:1rem;
+}
+.Ctrack__info{
+    display: flex;
+    flex-direction: column;
+}
+.head1{
+    color: white;
+}
+.head2{
+    color:#b3b3b3;
+    font-size: 0.8rem;
+}
+.Cimage{
+    border-radius:5px;
+    width: 90%;
+    height: 90%;
+}
