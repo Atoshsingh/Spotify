@@ -4,6 +4,7 @@ export default function Login() {
 
     function handleClick() {
         // alert("click working ");
+        //use your client id here 
         const clientId = ""
         const redirectedUrl = "http://localhost:5173"
         const apiUrl = "https://accounts.spotify.com/authorize";
