@@ -3,5 +3,3 @@ SnapShots
 Login
 ![Screenshot 2024-08-06 143546](https://github.com/user-attachments/assets/4c0fc60d-ebb3-41f1-8b30-b17af69694ed)
 Home page 
-![Screenshot 2024-08-06 143533](https://github.com/user-attachments/assets/fdd06998-9105-4938-91bd-ad20962a10a6)
-
